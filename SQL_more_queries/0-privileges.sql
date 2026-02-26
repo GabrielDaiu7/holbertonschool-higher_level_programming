@@ -1,5 +1,5 @@
--- print all privileges of user_0d_1
+--print all privileges of user_0d_1
 SHOW GRANTS FOR 'user_0d_1'@'localhost';
 
--- print all privileges of user_0d_2
+--print all privileges of user_0d_2
 SHOW GRANTS FOR 'user_0d_2'@'localhost';
